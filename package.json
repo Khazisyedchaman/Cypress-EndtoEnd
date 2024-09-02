@@ -1,0 +1,18 @@
+{
+  "name": "cypress_automation",
+  "version": "1.0.0",
+  "description": "Cypress Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Khazi Syed Chaman",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.13.3",
+    "cypress-xpath": "^2.0.1"
+  },
+  "dependencies": {
+    "cypress-real-events": "^1.13.0"
+  }
+}
